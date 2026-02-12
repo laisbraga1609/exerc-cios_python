@@ -2,7 +2,7 @@ Este repositório contém exercícios desenvolvidos durante meus estudos em prog
 
 O objetivo é praticar conceitos fundamentais da programação e evoluir gradualmente para projetos mais completos.
 
-  🚀 Tecnologias utilizadas
+ - 🚀 Tecnologias utilizadas
 
 >Python
 >
@@ -14,10 +14,10 @@ O objetivo é praticar conceitos fundamentais da programação e evoluir gradual
 >
 >Matemática aplicada à programação
 
-📂 Organização do Repositório
+ - 📂 Organização do Repositório
 🔢 Lógica Matemática
 
-Exercícios envolvendo cálculos matemáticos e fórmulas.
+✔ Exercícios envolvendo cálculos matemáticos e fórmulas.
 
 Exemplos:
 
@@ -29,9 +29,9 @@ Exemplos:
 >
 >Tabuada
 
-📝 Manipulação de Texto
+ - 📝 Manipulação de Texto
 
-Exercícios focados em strings e análise de texto.
+✔ Exercícios focados em strings e análise de texto.
 
 Exemplos:
 >
@@ -45,9 +45,9 @@ Exemplos:
 >
 >Análise de texto
 
-🧠 Lógica e Estruturas
+ - 🧠 Lógica e Estruturas
 
-Exercícios com tomada de decisão e estruturas de controle.
+✔ Exercícios com tomada de decisão e estruturas de controle.
 
 Exemplos:
 >
@@ -59,9 +59,9 @@ Exemplos:
 >
 >Sorteio de ordem
 
-🌍 Problemas Reais
+ - 🌍 Problemas Reais
 
-Exercícios simulando situações do dia a dia.
+✔ Exercícios simulando situações do dia a dia.
 
 Exemplos:
 
@@ -77,14 +77,14 @@ Exemplos:
 >
 >Simulação de aluguel de carros
 
-🎯 Objetivo
+ - 🎯 Objetivo
 
-Desenvolver base sólida em programação e evoluir para projetos voltados para desenvolvimento back-end.
+▫ Desenvolver base sólida em programação e evoluir para projetos voltados para desenvolvimento back-end.
 
-📚 Status
+ - 📚 Status
 
 📖 Em constante evolução — novos exercícios e melhorias serão adicionados.
 
-👩‍💻 Autora
+ - 👩‍💻 Autora
 
 Desenvolvido por Laís Braga
